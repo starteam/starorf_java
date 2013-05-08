@@ -90,15 +90,6 @@
 				<exclude name="star/junit/**" />
 				<exclude name=".settings/**" />
 			</fileset>
-			<fileset dir="../Plugin-Commons/bin" id="PluginCommons">
-				<include name="**" />
-				<exclude name=".classpath" />
-				<exclude name=".project" />
-				<exclude name=".settings" />
-				<exclude name="**/*.jar*" />
-				<exclude name="**/*.java" />
-				<exclude name=".settings/**" />
-			</fileset>
 		</jar>
 	</target>
 </project>
