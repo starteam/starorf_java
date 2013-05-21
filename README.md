@@ -31,7 +31,7 @@ Highlight starorf_java project and select ‘Debug -> as Java Application’.
 
 Create pull request in git to submit patches or improvements.
 
-#### Syncing with StarORF progress
+#### Syncing with starteam/starorf_java updates
 ```
 git remote -v
 git remote add upstream git@github.com:starteam/starorf_java.git
